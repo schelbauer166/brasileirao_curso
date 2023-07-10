@@ -1,0 +1,15 @@
+class Time {
+    string Nome;
+    string Brasao;
+    int pontos;
+    Color cor;
+
+
+Time({
+    this.nome,
+    this.pontos,
+    this.brasao,
+    this.cor,})
+
+}
+
